@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Summer Sale",
+    "description": "Get up to 50% off on all summer clothing items!",
+    "callToAction": "Shop Now",
+    "image": "/images/logo.png",
+    "bgTemplate": "/images/image-1.jpg"
+  },
+  {
+    "title": "New Arrivals",
+    "description": "Check out the latest trends in our new arrivals collection.",
+    "callToAction": "Explore Now",
+    "image": "/images/logo.png",
+    "bgTemplate": "/images/image-1.jpg"
+  },
+  {
+    "title": "Limited Time Offer",
+    "description": "Hurry up! Limited time offer on our best-selling products.",
+    "callToAction": "Buy Now",
+    "image": "/images/logo.png",
+    "bgTemplate": "/images/image-1.jpg"
+  }
+]
