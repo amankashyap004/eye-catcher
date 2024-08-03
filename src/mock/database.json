@@ -3,21 +3,42 @@
     "title": "Summer Sale",
     "description": "Get up to 50% off on all summer clothing items!",
     "callToAction": "Shop Now",
-    "image": "/images/logo.png",
+    "image": "/images/predefined-images-1.png",
     "bgTemplate": "/images/image-1.jpg"
   },
   {
     "title": "New Arrivals",
     "description": "Check out the latest trends in our new arrivals collection.",
     "callToAction": "Explore Now",
-    "image": "/images/logo.png",
-    "bgTemplate": "/images/image-1.jpg"
+    "image": "/images/predefined-images-1.png",
+    "bgTemplate": "/images/image-2.jpg"
   },
   {
     "title": "Limited Time Offer",
     "description": "Hurry up! Limited time offer on our best-selling products.",
     "callToAction": "Buy Now",
-    "image": "/images/logo.png",
-    "bgTemplate": "/images/image-1.jpg"
+    "image": "/images/predefined-images-1.png",
+    "bgTemplate": "/images/image-3.jpg"
+  },
+  {
+    "title": "Free Shipping",
+    "description": "Enjoy free shipping on all orders over $50!",
+    "callToAction": "Shop Now",
+    "image": "/images/predefined-images-1.png",
+    "bgTemplate": "/images/image-4.jpg"
+  },
+  {
+    "title": "Loyalty Rewards",
+    "description": "Earn points and get exclusive discounts as a member.",
+    "callToAction": "Join Now",
+    "image": "/images/predefined-images-1.png",
+    "bgTemplate": "/images/image-5.jpg"
+  },
+  {
+    "title": "Gift Cards Available",
+    "description": "The perfect gift for any occasion.",
+    "callToAction": "Shop Now",
+    "image": "/images/predefined-images-1.png",
+    "bgTemplate": "/images/image-6.jpg"
   }
 ]
